@@ -1,1 +1,1 @@
-# staking-contract
+Staking Smart Contract
